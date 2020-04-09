@@ -7,3 +7,13 @@ body{
     color: black;
     /* background: no-repeat; */
 }
+
+#detailss{
+  background-color: slategrey;
+  color: white;
+
+}
+
+#quotess{
+  background-color: lightcyan;
+}
