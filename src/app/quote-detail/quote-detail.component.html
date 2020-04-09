@@ -1,0 +1,6 @@
+
+<p>{{quote.description}}</p>
+<p>date : {{quote.completeDate|date|uppercase}} <br> <br> posted  :  {{quote.completeDate|dateCount}} </p>
+<button (click)='upVotes()' class="btn btn-primary" style="padding-right: 30px;">like {{quote.upvotes}} </button>
+ <button (click)='downVotes()' class="btn btn-secondary">dislike {{quote.downvotes}} </button> <br> <br>
+ <button (click)= 'quoteDelete(true)' class="btn btn-outline-danger">Delete quote</button>
