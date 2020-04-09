@@ -1,4 +1,4 @@
-[https://ivxxi.github.io/angular-week-1/]
+[https://ivxxi.github.io/quotes/]
 
 # {quotes hub}
 #### quotes website, Date of current version
