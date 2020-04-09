@@ -1,3 +1,34 @@
+[https://ivxxi.github.io/angular-week-1/]
+
+# {quotes hub}
+#### quotes website, Date of current version
+#### By **{crystal alice}**
+## Description
+the following project is a website that enables the user to add quotes.
+
+## Setup/Installation Requirements
+* Select link
+* run in browser
+
+## Known Bugs
+there are no currently known bugs
+
+## Technologies Used
+1. html
+2. css
+3. bootstrap
+4. angular
+5. typescript
+
+## Support and contact details
+crystalalice21@gmail.com
+
+### License
+*MIT license*
+Copyright (c) 2020 **{crystal alice}**
+
+
+
 # Quotes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
