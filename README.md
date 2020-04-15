@@ -6,7 +6,7 @@
 Crystal Alice
 
 ## Description
-This website allows a user to search a Github profile using the usernames and view the available repositories
+This website allows a user to add quotes to the webpage.
 -live link: https://ivxxi.github.io/quotes/
 
 ## Features
